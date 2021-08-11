@@ -14,7 +14,9 @@ Use python3 to run the pyou-dl.py.
 
 Option 1 will take every song name in the input file (songs_to_add.txt by default) and download it to the "../" directory by default.
 
-The songs in the input file should be formatted so that there is no punctuation except for "-".
+The songs in the input file should be formatted so that there is no punctuation except for "-" as well as capitalizing every word.
+
+Capitalizing and using no punctuation will help reduce redundancies.
 
 The songs should be written in a way that makes it easy for the search to return the desired video as the first result of a search.
  - (EX. Thunderstruck -- ACDC)
